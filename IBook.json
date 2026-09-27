@@ -1,0 +1,74 @@
+[
+  {
+    "name": "The Alchemist",
+    "price": 18000,
+    "stock": 15,
+    "category": "Ficción"
+  },
+  {
+    "name": "1984",
+    "price": 22000,
+    "stock": 10,
+    "category": "Ciencia ficción"
+  },
+  {
+    "name": "Pride and Prejudice",
+    "price": 19500,
+    "stock": 8,
+    "category": "Romance"
+  },
+  {
+    "name": "The Hobbit",
+    "price": 25000,
+    "stock": 12,
+    "category": "Fantasía"
+  },
+  {
+    "name": "Harry Potter and the Philosopher's Stone",
+    "price": 28000,
+    "stock": 20,
+    "category": "Fantasía"
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "price": 21000,
+    "stock": 7,
+    "category": "Ficción"
+  },
+  {
+    "name": "The Little Prince",
+    "price": 15000,
+    "stock": 25,
+    "category": "Literatura"
+  },
+  {
+    "name": "The Lord of the Rings",
+    "price": 35000,
+    "stock": 9,
+    "category": "Fantasía"
+  },
+  {
+    "name": "Atomic Habits",
+    "price": 24000,
+    "stock": 18,
+    "category": "Desarrollo personal"
+  },
+  {
+    "name": "The Psychology of Money",
+    "price": 23000,
+    "stock": 11,
+    "category": "Finanzas"
+  },
+  {
+    "name": "Clean Code",
+    "price": 32000,
+    "stock": 6,
+    "category": "Programación"
+  },
+  {
+    "name": "You Don't Know JS",
+    "price": 27000,
+    "stock": 13,
+    "category": "Programación"
+  }
+]
